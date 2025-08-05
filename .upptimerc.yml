@@ -5,14 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Dev
     url: https://dev.lumisightemr.datahouse.asia
-  - name: Uat MLMC
+  - name: UAT MLMC
     url: https://uat.makatilife.datahouse.vn
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: UAT Caretech
+    url: https://uat.caretech.datahouse.vn
+  - name: PROD MLMC
+    url: https://emrprod.makatilife.com
     port: 80
     check: "tcp-ping"
     ipv6: true
