@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.lumisightemr.datahouse.asia.ico",
     "slug": "dev",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 1769,
-    "timeDay": 1769,
-    "timeWeek": 1769,
-    "timeMonth": 1769,
-    "timeYear": 1769,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 1437,
+    "timeDay": 1437,
+    "timeWeek": 1437,
+    "timeMonth": 1437,
+    "timeYear": 1437,
     "dailyMinutesDown": {
-      "2025-08-05": 29
+      "2025-08-06": 59,
+      "2025-08-05": 872
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1126,
-    "timeDay": 1126,
-    "timeWeek": 1126,
-    "timeMonth": 1126,
-    "timeYear": 1126,
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1101,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-05": 0
+      "2025-08-06": 60,
+      "2025-08-05": 843
     }
   }
 ]
