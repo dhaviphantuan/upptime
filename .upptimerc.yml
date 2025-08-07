@@ -1,25 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: dhaviphantuan # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Dev
-    url: https://dev.lumisightemr.datahouse.asia
-  - name: UAT MLMC
-    url: https://uat.makatilife.datahouse.vn
-  - name: UAT Caretech
-    url: https://uat.caretech.datahouse.vn
-  - name: PROD MLMC
-    url: https://emrprod.makatilife.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: DEV Account Service DHSP
+    url: https://api.dev.lumisightemr.datahouse.asia/account-svc/health
+  - name: DEV Patient Service DHSP
+    url: https://api.dev.lumisightemr.datahouse.asia/patient-svc/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: upptime.dev.lumisightemr.datahouse.asia
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
