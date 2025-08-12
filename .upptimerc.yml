@@ -7,6 +7,12 @@ sites:
     url: https://api.dev.lumisightemr.datahouse.asia/account-svc/health
   - name: DEV Patient Service DHSP
     url: https://api.dev.lumisightemr.datahouse.asia/patient-svc/health
+  - name: DEV Coding Service DHSP
+    url: https://api.dev.lumisightemr.datahouse.asia/coding-svc/health
+  - name: DEV Notification Service DHSP
+    url: https://api.dev.lumisightemr.datahouse.asia/notification-svc/health
+  - name: DEV Audit Service DHSP
+    url: https://api.dev.lumisightemr.datahouse.asia/audit-svc/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
